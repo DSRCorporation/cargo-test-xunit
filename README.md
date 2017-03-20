@@ -4,7 +4,7 @@ Converts cargo test output into a xunit report
 ## Install
 
 ```
-cargo install --git https://github.com/evernym/cargo-test-xunit
+cargo install --git https://github.com/DSRCorporation/cargo-test-xunit
 ```
 
 ## Run
