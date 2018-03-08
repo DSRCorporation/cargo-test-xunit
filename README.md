@@ -9,7 +9,7 @@ cargo install --git https://github.com/DSRCorporation/cargo-test-xunit
 
 ## Run
 ```
-cargo test-xunit [-outd path/to/output/dir] [-outf filename]
+cargo test-xunit [--outd path/to/output/dir] [--outf filename]
 ```
 
 After executing this command in provided directory (or `root` directory by default) of project will be created file with the given filename (or `test-results.xml` by default)
