@@ -4,7 +4,7 @@ Converts cargo test output into a xunit report
 ## No maintenance warning
 
 ```diff
-- We stopped to use and support this project. If you think it is usefull the best way to proceed is forking.
+- We stopped to use and support this project. If you think it is useful the best way to proceed is forking.
 ```
 
 ## Install
